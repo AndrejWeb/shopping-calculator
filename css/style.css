@@ -1,0 +1,21 @@
+.item {
+    margin-bottom: 10px;
+}
+
+.delete_item,.export {
+    cursor: pointer;
+}
+
+.delete_item {
+    width: 32px;
+    height: 32px;
+    padding: 0 !important;
+}
+
+body {
+    background: #ccc;
+}
+
+.container {
+    margin-top: 20px;
+}
