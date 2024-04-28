@@ -11,7 +11,3 @@ To run the project on your web server, first run in the root directory
 This will install the html2pdf library necessary for PDF export.
 
 Now you're good to go and navigate to project destination in browser.
-
-You can test the project here: http://andrejphp.dx.am/shopping-calculator/
-
-Official website: https://andrejphp.is  
